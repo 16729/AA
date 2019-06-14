@@ -1,0 +1,194 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>爱阅读_图书简介</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" href="../style/wudu.css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<header>
+		<div class="head">
+			<p class="login"><a href="../zhuce.html">注册</a> |<a href="#">登录</a> </p>
+		</div>
+		<div class="logo">
+			<img src="../images/index/logo.png">
+			<div class="sousuo">
+				<input class="in"type="text" value="书虫·搜搜">
+				<input class="fangdajing"type="button" value="">
+			</div>
+		</div>
+		<!-- TemplateBeginEditable name="EditRegion6" -->
+		<div class="menu">
+		  <ul>
+		    <li><a href="../index.html">首页</a></li>
+		    <li><a href="../read.html">阅读</a></li>
+		    <li><a href="../quanzi.html">圈子</a></li>
+		    <li><a href="../app.html">APP</a></li>
+		    <li><a href="#">联系我们</a></li>
+	      </ul>
+	    </div>
+		<!-- TemplateEndEditable --></header>
+<div id="content">
+
+	<div id="left">
+    
+		<div id="jiaoyu">
+    		<img src="../images/wudu/bread.png" />
+    		<a class="jiaoyuzi"> 图书类 > 教育成长 </a>
+    	</div>
+	  <!-- TemplateBeginEditable name="EditRegion1" -->
+		<div id="jiaoyu2"> <a class="shuming"><strong>雾都孤儿（第6级）（书虫·牛津英汉双语读物） </strong></a> </div>
+	  <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="EditRegion2" -->
+		<div id="left1">
+		  <div id="left1z"> <img src="../images/wudu/zuo.jpg" width="170" height="240" />
+		    <div id="shoucang"> <a href="#">收藏</a> </div>
+		    <div id="fenxiang"> <a href="#" >分享</a> </div>
+		    </div>
+		  <div id="left1y">
+		    <p class="jiaoyuzi">作   者:查尔斯·狄更斯</p>
+		    <p class="jiaoyuzi">Charles Dickens</p>
+		    <p class="jiaoyuzi">译   者:董黎</p>
+		    <p class="jiaoyuzi">出版社:外语教学与研究出版社</p>
+		    <p class="jiaoyuzi">Foreign Language Teaching and Research Press</p>
+		    <p class="jiaoyuzi"> 语   言:英文</p>
+		    <p class="jiaoyuzi">支持： <img src="../images/wudu/pc.png" /> <img src="../images/wudu/iPhone.png" /> <img src="../images/wudu/android.png" /> </p>
+		    <p class="jiaoyuzi">电子书：<a class="rmb"><strong>￥6.81</strong></a></p>
+		    <div id="sd"> <a href="#" ><strong>试读</strong></a> </div>
+		    <div id="gm"> <a href="#" ><strong>购买</strong></a> </div>
+		    <div id="gwc"> <a href="#" ><strong>购物车</strong></a> </div>
+		    </div>
+		  </div>
+		<!-- TemplateEndEditable -->
+		<div id="daodu">
+       	<a class="daoduzi">导读</a><a class="daoduzi">内容简介</a><a class="daoduzi">作者简介</a><a class="daoduzi">摘录目录</a>
+      </div>
+		<!-- TemplateBeginEditable name="EditRegion3" -->
+		<div id="jianjie">
+		  <p class="ddz">&nbsp;&nbsp;&nbsp;&nbsp;书中揭露出隐藏在伦敦狭小、肮脏的偏僻街道里的恐怖和暴力。因此作者为我们写了邪恶的费金，残暴的比尔•赛克斯，以及一大群窃贼强盗。这些人撒谎、欺诈、偷盗，害怕进监狱，害怕刽子手把绞索套到他们的脚颈上，在惴惴不安中生活。小奥利弗•特威斯特——一个孤儿，被投入一个充满贫困与犯罪的世界，忍饥挨饿，挨打挨骂，从来没有人爱他。他为我们写出了南希——可怜、凄惨、悲苦的南希，她生活在一个残忍的世界中，却挣扎着要忠实于她所爱的人。而且，正如在一切最好的故事里一样，善良最终战胜了邪恶。</p>
+		  <br />
+		  <p class="ddz">&nbsp;&nbsp;&nbsp;&nbsp;Dark, mysterious and mordantly funny, Oliver Twist features some of the most memorably drawn villains in all of fiction—the treacherous gangmaster Fagin, the menacing thug Bill Sikes, the Artful Dodger and their den of thieves in the grimy London backstreets. Dicken's novel is both an angry indictment of poverty, and an adventure filled with an air of threat and pervasive evil.</p>
+		  <p class="pinglun"><a>读后感</a><a>评论</a></p>
+	    </div>
+		<!-- TemplateEndEditable -->
+	  <div id="dhg">
+        
+       	<div class="dhg1">
+            	<a href="#">写读后感</a>
+            </div>
+            
+        <p>暂时还没有读后感，等待第一篇… </p>
+        </div>
+   </div>
+   
+   <div id="right">
+   
+   		<div id="right1">
+        	<h3>本书标签</h3>
+        	<br />
+            
+            <div class="chengzhang">
+            	<a href="#">成长小说</a>
+            </div>
+            
+          <div class="chengzhang">
+            	<a href="#">世界名著</a>
+          </div>
+            
+          <div class="chengzhang">
+            	<a href="#">书虫文学</a>
+          </div>
+            
+            <div class="chengzhang">
+            	<a href="#">新标签+</a>
+            </div>
+            
+            <br />
+          <p id="yqds">邀请朋友读书</p>
+         
+          
+          <div id="yq">
+                <a href="#">邀请</a>
+                </div>
+     </div>
+     
+     <div id="right2" align="center">
+     	<a>相关内容</a>
+     </div>
+     
+     <div id="right3">
+     		<div id="xg_1">
+				<img src="../images/wudu/xg1.jpg">
+				<p>远大前程（第5级）（书虫·<br />
+牛津英汉双语读物）
+Great Expectations 
+				</p>
+				</div>
+     
+     		<div id="xg_1">
+				<img src="../images/wudu/xg2.jpg">
+				<p>园会（第5级）（书虫·<br />
+牛津英汉双语读物）
+The Garden Party and Other Stories 
+				</p>
+				</div>
+            
+            
+            <div id="xg_1">
+				<img src="../images/wudu/xg3.jpg">
+				<p>化身博士（第4级）（书虫·<br />
+牛津英汉双语读物）
+Dr <br />
+Jekyll and Mr Hyde 
+				</p>
+				</div>
+                
+            <div id="xg_1">
+				<img src="../images/wudu/xg4.jpg">
+				<p>呼啸山庄（第5级）（书虫·<br />
+牛津英汉双语读物）
+Wuthering Heights 
+				</p>
+				</div>
+
+     </div>
+     
+      <div id="right2" align="center">
+     	<a>看了本书的人还看了</a>
+     </div>
+     
+     <div id="right4">
+     	<br />
+     	<a class="jiaoyuzi">没有相关内容 </a>
+     
+     </div>
+     
+     <div id="right2" align="center">
+     	<a>看过本书的人</a>
+     </div>
+     
+     <div id="right4">
+     	<br />
+     	<a class="jiaoyuzi">还没有其他人看过  </a>
+     
+     </div>
+  </div>
+   
+</div>
+
+<footer>
+		<ul>
+			<li><a href="#">关于我们</a></li>
+			<li><a href="#">免责声明</a></li>
+			<li><a href="#">版权声明</a></li>
+			<li><a href="#">联系我们</a></li>
+			<li><a href="#">帮助中心</a></li>
+		</ul>
+		<p>版权所有 Copyright2018-2020by  2-122</p>
+	</footer>
+</body>
+</html>

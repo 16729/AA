@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>注册账号</title>
+</head>
+<link rel="stylesheet" type="text/css" href="style/zhuce.css" />
+<body>
+<header>
+		<div class="head">
+			<p class="login"><a href="zhuce.html">注册</a> |<a href="#">登录</a> </p>
+		</div>
+		<div class="logo">
+			<img src="images/index/logo.png">
+			<div class="sousuo">
+				<input class="in"type="text" value="书虫·搜搜">
+				<input class="fangdajing" style="background-image: url(images/index/fangdajing.png)"type="button" value="" >
+			</div>
+		</div>
+			<div class="menu">
+				<ul>
+					<li><a href="index.html">首页</a></li>
+					<li><a href="read.html">阅读</a></li>
+					<li><a href="quanzi.html">圈子</a></li>
+					<li><a href="app.html">APP</a></li>
+					<li><a href="#">联系我们</a></li>
+				</ul>
+			</div>
+</header>
+<div class="main">
+	<div id="wrapper">
+      <h1>注册账号</h1>
+      <form method="post" action="" id="register" name="register">
+        <fieldset>
+          <legend>基本信息</legend>
+          <ul>
+            <li>
+              <label for="username">用户名：</label>
+              <input type="text" id="username" name="username" class="large" value="请输入你的用户名" />
+            </li>
+            <li>
+              <label for="password">密码：</label>
+              <input name="password" type="password" class="large" id="password" />
+            </li>
+            <li>
+              <label for="password2">再次输入密码：</label>
+              <input name="password2" type="password" class="large" id="password2" />
+            </li>
+          </ul>
+        </fieldset>
+        <fieldset>
+          <legend>联系方式</legend>
+          <ul>
+            <li>
+              <label for="email">电子邮件：</label>
+              <input type="email" id="email" name="email" class="large" />
+            </li>
+            <li>
+              <label for="street_address">公司地址：</label>
+              <input type="text" id="street_address" name="street_address" class="large" />
+            </li>
+            <li>
+              <label for="country">国家</label>
+              <select name="country" class="small" id="country">
+                <option value="China" selected>中国</option>
+                <option value="American">美国</option>
+                <option value="German">德国</option>
+              </select>
+            </li>
+           </ul>
+        </fieldset>
+        <fieldset>
+          <legend>个人信息</legend>
+          <ul>
+            <li>
+              <label for="picture">头像：</label>
+              <input type="file" id="picture" name="picture" />
+            </li>
+            <li>
+              <label for="bio">自我介绍：</label>
+              <textarea id="bio" name="bio" rows="4" cols="50" ></textarea>
+            </li>
+          </ul>
+        </fieldset>
+            </li>
+          </ul>
+        </fieldset>
+          <input type="submit" value="提交"  width="20"/>
+          <input type="reset" value="重置"  width="20"/>
+      </form>
+  </div>
+</div>
+<footer>
+		<ul>
+			<li><a href="#">关于我们</a></li>
+			<li><a href="#">免责声明</a></li>
+			<li><a href="#">版权声明</a></li>
+			<li><a href="#">联系我们</a></li>
+			<li><a href="#">帮助中心</a></li>
+		</ul>
+	<p>版权所有 Copyright©2018-2020 by  2-122</p>
+  </footer>
+</body>
+</html>

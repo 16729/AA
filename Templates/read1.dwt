@@ -1,0 +1,239 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>阅读</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" href="../style/readcss.css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<!-- TemplateBeginEditable name="EditRegion3" -->
+<header>
+  <div class="head">
+    <p class="login"><a href="#">注册</a> |<a href="#">登录</a> </p>
+  </div>
+  <div class="logo"> <img src="../images/index/logo.jpg">
+    <div class="sousuo">
+      <input class="in"type="text" value="书虫·搜搜">
+      <input class="fangdajing"type="button" value="">
+    </div>
+  </div>
+  <div class="menu">
+    <ul>
+      <li><a href="../index.html">首页</a></li>
+      <li><a href="../read.html">阅读</a></li>
+      <li><a href="../index.html">圈子</a></li>
+      <li><a href="../app.html">APP</a></li>
+      <li><a href="#">联系我们</a></li>
+    </ul>
+  </div>
+</header>
+<div id="fenlei">
+  <div id="liebiao">
+    <table class="mytable">
+      <tr>
+        <td><a href="../read.html">浪漫情感</a></td>
+      </tr>
+      <tr>
+        <td><a  href="../read1.html">科学读物</a></td>
+      </tr>
+      <tr>
+        <td><a href="#">讽刺幽默</a></td>
+      </tr>
+      <tr>
+        <td><a href="#">悬疑推理</a></td>
+      </tr>
+      <tr>
+        <td><a href="#">科幻冒险</a></td>
+      </tr>
+      <tr>
+        <td><a href="#">教育成长</a></td>
+      </tr>
+      <tr>
+        <td><a href="#">人物传记</a></td>
+      </tr>
+      <tr>
+        <td><a href="#">经济管理</a></td>
+      </tr>
+      <tr>
+        <td><a href="#">心理行为</a></td>
+      </tr>
+      <tr>
+        <td><a href="#">哲学政治</a></td>
+      </tr>
+      <tr>
+        <td><a href="#">社会历史</a></td>
+      </tr>
+      <tr>
+        <td><a href="#">语言学习</a></td>
+      </tr>
+      <tr>
+        <td><a href="#">新闻传闻</a></td>
+      </tr>
+      <tr>
+        <td><a href="#">法学读物</a></td>
+      </tr>
+    </table>
+  </div>
+  
+  <div id="xinxi">
+    <hr width="680">
+    <br>
+
+    <div class="book"> <img src="../images/read/11.jpg" width="80" height="105">
+      <div class="bookname"> <a href="#">
+        <h3>追逐类星体</h3>
+        </a>
+        <p>作 者: 何香涛（中）</p>
+        <p>语言: 中</p>
+        <h4>电子书：￥16.90</h4>
+      </div>
+      <div class="text">
+        <p>《追逐类星体》集结了作者何香涛对类星体的研究，但本书的内容不局限于类星体，它涵盖了许多现代天文学的知识，包括宇宙学、射电天文学、...</p>
+      </div>
+    </div>
+    <div class="book"> <img src="../images/read/22.jpg" width="80" height="105">
+      <div class="bookname"> <a href="#">
+        <h3>再稀奇古怪的问题也有个科学答案</h3>
+        </a>
+        <p>作 者: 巴里·L·拜尔斯坦（加）</p>
+        <p>语言: 中</p>
+        <h4>电子书：￥12.90</h4>
+      </div>
+      <div class="text">
+        <p>《再稀奇古怪的问题都有个科学答案》精选《环球科学》（《科学美国人》中文版）中“专家问答”栏目的内容，汇集84个读者提出的有趣问题及...</p>
+      </div>
+    </div>
+    <br>
+    <hr width="680">
+    <br>
+    <div class="book"> <img src="../images/read/33.jpg" width="80" height="105">
+      <div class="bookname"> <a href="#">
+        <h3>行走在非洲丛林</h3>
+        </a>
+        <p>On the Edge of the Primeval Forest</p>
+        <p>作 者: 阿尔伯特·史怀哲（德）</p>
+        <p>语言: 中</p>
+        <h4>电子书：￥12.900</h4>
+      </div>
+      <div class="text">
+        <p>这是一部出自伟大的人道主义者、苍生大医史怀哲之手的早期生活自传，记叙的是一个世纪前（1913年-1917年）发生在非洲丛林里的关于生命救...</p>
+      </div>
+    </div>
+    <div class="book"> <img src="../images/read/44.jpg" width="80" height="105">
+      <div class="bookname"> <a href="#">
+        <h3>现代医学真的进步了吗</h3>
+        </a>
+        <p>作 者: 蔡宙（美）等</p>
+        <p>语言: 中</p>
+        <h4>电子书：￥15.90</h4>
+      </div>
+      <div class="text">
+        <p>《现代医学真的进步了吗》精选自全球顶尖的科普杂志《科学美国人》，旨在用通俗的短文向读者介绍当代医学的最新进展，比如有关癌症机理和...</p>
+      </div>
+    </div>
+    <br>
+    <hr width="680">
+    <br>
+    <div class="book"> <img src="../images/read/55.jpg" width="80" height="105">
+      <div class="bookname"> <a href="#">
+        <h3>探秘远古人类</h3>
+        </a>
+        <p>作 者: 吴新智（中）</p>
+        <p>语言: 中</p>
+        <h4>电子书：￥11.90</h4>
+      </div>
+      <div class="text">
+        <p>《探秘远古人类》为我国著名古人类学家吴新智院士创作的科普读物。作者分别以化石发现的先后次序和人类进化历程为主线介绍迄今为止出土的....</p>
+      </div>
+    </div>
+    <div class="book"> <img src="../images/read/66.jpg" width="80" height="105">
+      <div class="bookname"> <a href="#">
+        <h3>太空移民 我们准备好了吗</h3>
+        </a>
+        <p>作 者: 任文驹（美）等</p>
+        <p>语言: 中</p>
+        <h4>电子书：￥15.90</h4>
+      </div>
+      <div class="text">
+        <p>《太空移民 我们准备好了吗》精选全球顶尖的科普杂志《科学美国人》中的天文资讯，向读者介绍天文学的最新进展。所选文章涉及小行星撞击....</p>
+      </div>
+    </div>
+    <br>
+    <hr width="680">
+    <br>
+    <div class="book"> <img src="../images/read/77.jpg" width="80" height="105">
+      <div class="bookname"> <a href="#">
+        <h3>谁是没病的健康人</h3>
+        </a>
+        <p>作 者: 梅琳达·温纳·莫耶（美）等</p>
+        <p>语言: 中</p>
+        <h4>电子书：￥15.90</h4>
+      </div>
+      <div class="text">
+        <p>《谁是没病的健康人》精选自全球顶尖的科普杂志《科学美国人》，旨在用通俗的短文向读者介绍一些保健知识的科学背景，比如科学育儿和预防...</p>
+      </div>
+    </div>
+    <div class="book"> <img src="../images/read/88.jpg" width="80" height="105">
+      <div class="bookname"> <a href="#">
+        <h3>谁是地球的下一个主宰</h3>
+        </a>
+        <p>作 者: 戴维·别洛（美）等</p>
+        <p>语言: 中</p>
+        <h4>电子书：￥15.90</h4>
+      </div>
+      <div class="text">
+        <p>《谁是地球的下一个主宰》精选全球顶尖的科普杂志《科学美国人》中的生物资讯，向读者介绍生物学的最新进展。所选文章涉及古人类、古生物...</p>
+      </div>
+    </div>
+    <br>
+    <hr width="680">
+    <br>
+    <div class="book"> <img src="../images/read/99.jpg" width="80" height="105">
+      <div class="bookname"> <a href="#">
+        <h3>生机无限：医学2.0</h3>
+        </a>
+        <p>作 者: 保罗·肯尼（美）等</p>
+        <p>语言: 中</p>
+        <h4>电子书：￥12.90</h4>
+      </div>
+      <div class="text">
+        <p>本书精选近年来发表在《科学美国人》（Scientific American）上的18 篇封面故事和长篇报道，涵盖了饮食、运动、衰老、新型传染病、癌症、...</p>
+      </div>
+    </div>
+    <div class="book"> <img src="../images/read/1010.jpg" width="80" height="105">
+      <div class="bookname"> <a href="#">
+        <h3>拿什么拯救你 我的地球</h3>
+        </a>
+        <p>作 者: 戴维·别洛（美）等</p>
+        <p>语言: 中</p>
+        <h4>电子书：￥15.90</h4>
+      </div>
+      <div class="text">
+        <p>《拿什么拯救你 我的地球》精选自全球顶尖的科普杂志《科学美国人》，主要介绍了气候变化、环境保护以及能源问题等方面的最新科学进展，...
+</p>
+      </div>
+    </div>
+    <br>
+    <hr width="680">
+    <br>
+    		
+  </div>
+</div>
+<footer>
+		<ul>
+			<li><a href="#">关于我们</a></li>
+			<li><a href="#">免责声明</a></li>
+			<li><a href="#">版权声明</a></li>
+			<li><a href="#">联系我们</a></li>
+			<li><a href="#">帮助中心</a></li>
+		</ul>
+		<p>版权所有 Copyright?2018-2020by  2-122</p>
+	</footer>
+    <!-- TemplateEndEditable -->
+</body>
+</html>

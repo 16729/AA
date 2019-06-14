@@ -1,0 +1,378 @@
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color:rgb(244,244,244);
+}
+header{
+	width: 1600px;
+	heoght:200px;
+}
+.head{
+	width:1600px;
+	height: 30px;
+	background-color: black;
+}
+.head a{
+	text-decoration: none;
+	color: #ccc;
+}
+.login{
+	color: #ccc;
+	text-align: right;
+	padding-right: 300px;
+	padding-top: 3px;
+}
+.logo{
+	width: 1600px;
+	height: 95px;
+}
+.logo img{
+	padding-left: 200px;
+	padding-right: 300px;
+	float: left;
+}
+.sousuo{
+	height:65px;
+	width: 445px;
+	float: left;
+	border:2px solid rgba(255,151,98,1.00);
+	text-align: center;
+	position: relative;
+	margin-top: 20px;
+	
+}
+.sousuo img{
+	float: left;
+}
+.logo .in{
+	float: left;
+	height: 65px;
+	width: 375px;
+	font-size: 24px;
+	border: none;
+	text-align: center;
+}
+.fangdajing{
+	float: left;
+	width: 65px;
+	height: 65px;
+	border:none;
+}
+.menu{
+	width: 100%;
+	height: 65px;
+	clear: both;
+	background-color:rgba(255,135,81,1.00);
+	list-style: none;
+	
+}
+ .menu ul{
+	height: 65px;
+	width: 60%;
+	list-style: none;
+	margin: 0 auto;
+	padding-top: 15px;
+	
+}
+.menu li{
+	margin: 0 40px;
+	display: inline;
+}
+.menu a{
+	text-decoration: none;
+	color: black;
+	font-size: 26px;
+	color: white;
+}
+.content{
+	width: 1024px;
+	height: 1820px;
+	margin: 0 auto;
+}
+.content #left1{
+	width: 630px;
+	height: 330px;
+	float: left;
+	background-color: white;
+}
+.content #left1 img{
+	padding-left: 80px;
+}
+.content #wenzi1{
+	width: 315px;
+	height: 80px;
+	background-color: white;
+	text-align: center;
+	padding-top: 20px;
+	float: left;
+	font-size: 13px;
+}
+.content #wenzi1 h4{
+	color: rgb(242,143,103);
+	font-size: 16px;
+} 
+.content #wenzi1 a{
+	text-decoration:none;
+	color:black;
+	}
+.content #wenzi1 a:hover{
+	text-decoration:underline;
+	}
+.content .right1{
+	width: 394px;
+	height: 330px;
+	float: left;
+	background-color: white;
+}
+.content .right1 .mytable1{
+	margin-left: 10px;
+	margin-top: 30px;
+	width: 300px;
+	height: 300px;
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+	background-color: white;
+	text-align: center;
+}
+.content .right1 .mytable1 tr{
+	border-bottom: 1px solid #ccc;
+}
+.content .tuijian{
+	clear: both;
+	width: 1024px;
+	height:520px;
+}
+.content .tuijian .tuijian_bianti{
+	width: 1024px;
+	height: 70px;
+	border-bottom: 2px solid #ccc;
+	position: relative;
+}
+.content .tuijian .tuijian_bianti .h2_1{
+	padding-top: 20px;
+	color: rgb(243,143,103);
+	float: left;
+	padding-left: 30px;
+}
+.content .tuijian .tuijian_bianti .h2_2{
+	padding-top: 20px;
+}
+.content .tuijian a{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	color: rgb(243,143,103);
+}
+.content .book_all{
+	height: 500px;
+	padding-left: 30px;
+	padding-top: 20px;
+	
+}
+.content .book{
+	float: left;
+	padding-top: 8px;
+	padding-left: 30px;
+	padding-right: 10px;
+	width: 90px;
+	height:190px;
+}
+.content .book p{
+	font-size: 12px;
+	text-align: center;
+	margin: 4px 0;
+}
+.two{
+	background-color: white;
+	width: 1024px;
+}
+.content .left2{
+	width:655px;
+	height:345px;
+	padding-top:20px;
+	float:left;
+	background-color: white;
+}
+.content .left2_1{
+	width:310px;
+	height:265px;
+	position:relative;
+	float:left;
+	padding-top:10px;
+}
+.content .left2_1 span{
+	width:310px;
+	height:40px;
+	font-size:13px;
+	background-color:#333;
+	opacity:0.8;
+	color:white;
+	position:absolute;
+	top:180px;
+}
+ .huati_bianti{
+	width: 605px;
+	height: 40px;
+	border-bottom: 2px solid #ccc;
+	position: relative;
+	padding-bottom:30px;
+}
+.huati_bianti .h2_1{
+	padding-top: 20px;
+	color: rgb(243,143,103);
+	float: left;
+	padding-left: 30px;
+}
+.huati_bianti .h2_2{
+	padding-top: 20px;
+}
+.huati_bianti a{
+	position: absolute;
+	color: rgb(243,143,103);
+	right:0;
+	bottom:0;
+}
+.content .left2_2{
+	float:left;
+	width:295px;
+	height:235px;
+	padding-left:40px;
+	padding-top:30px;
+}
+.content .left2_2 li{
+	margin:8px 0;}
+.content .left2_2 a{
+	font-size:14px;
+	color:#666;
+}
+.right2{
+	width:330px;
+	height:350px;
+	float:left;
+	padding-top:20px;
+	background-color: white;
+}
+.quanzi_bianti{
+	width: 330px;
+	height: 40px;
+	border-bottom: 2px solid #ccc;
+	position: relative;
+	padding-bottom:30px;
+}
+.quanzi_bianti .h2_1{
+	padding-top: 20px;
+	color: rgb(243,143,103);
+	float: left;
+	padding-left: 30px;
+}
+.quanzi_bianti .h2_2{
+	padding-top: 20px;
+}
+.quanzi_bianti a{
+	position: absolute;
+	color: rgb(243,143,103);
+	right:0;
+	bottom:0;
+}
+.quanzi{
+	width:90px;
+	height:100px;
+	padding:10px 10px;
+	float:left;
+}
+.quanzi img{
+	width:76px;
+	padding-left:10px;
+}
+.quanzi p{
+	font-size:14px;
+	text-align:center;
+	color:#666;
+}
+.three{
+	width: 1024px;
+}
+.left3{
+	width: 655px;
+	height: 435px;
+	float: left;
+	background-color: white;
+}
+.read_biaoti{
+	width: 625px;
+	height: 40px;
+	margin-left: 20px;
+	border-bottom: 2px solid #ccc;
+	margin-bottom: 20px;
+	
+}
+.read{
+	width: 192px;
+	height: 370px;
+	text-align: center;
+	background-color: rgb(245,244,244);
+	border: 1px solid #ccc;
+	float: left;
+	margin-left: 15px;
+}
+.read img{
+	padding: 15px 18px;
+}
+.read p{
+	margin: 6px 0;
+	font-size: 13px;
+}
+.read .read_tips{
+	font-size: 14px;
+	text-align: left;
+	padding: 0 5px;
+}
+.read a{
+	color: rgba(227,137,84,1.00);
+}
+.right3{
+	width:310px;
+	height:425px;
+	float:left;		
+	margin-top: 10px;
+	margin-left: 20px;
+	background-color: white;
+}
+.right3 ol{
+	padding-top: 25px;
+	background-color: white;
+	padding-left: 25px;
+}
+.right3 li{
+	margin: 10px 0;
+}
+footer{
+	background-color: rgb(141,139,139);
+	width: 1600px;
+	height: 70px;
+}
+footer ul{
+	padding-top: 20px;
+	padding-left: 480px;
+	list-style: none;
+}
+footer li{
+	display: inline;
+	margin: 0 20px;
+}
+footer  a{
+	color: white;
+	text-decoration: none;
+	
+}
+footer a:hover{
+	text-decoration-line: underline;
+}
+footer  p{
+	color: white;
+	padding-left: 600px;
+	padding-top: 7px;
+}

@@ -1,0 +1,283 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color:rgb(244,244,244);
+}
+header{
+	width: 1600px;
+	heoght:200px;
+}
+.head{
+	width:1600px;
+	height: 30px;
+	background-color: black;
+}
+.head a{
+	text-decoration: none;
+	color: #ccc;
+}
+.login{
+	color: #ccc;
+	text-align: right;
+	padding-right: 300px;
+	padding-top: 3px;
+}
+.logo{
+	width: 1600px;
+	height: 95px;
+}
+.logo img{
+	padding-left: 200px;
+	padding-right: 300px;
+	float: left;
+}
+.sousuo{
+	height:65px;
+	width: 445px;
+	float: left;
+	border:2px solid rgba(255,151,98,1.00);
+	text-align: center;
+	position: relative;
+	margin-top: 20px;
+	
+}
+.sousuo img{
+	float: left;
+}
+.logo .in{
+	float: left;
+	height: 65px;
+	width: 375px;
+	font-size: 24px;
+	border: none;
+	text-align: center;
+}
+.fangdajing{
+	float: left;
+	width: 65px;
+	height: 65px;
+	border:none;
+}
+.menu{
+	width: 100%;
+	height: 65px;
+	clear: both;
+	background-color:rgba(255,135,81,1.00);
+	list-style: none;
+	
+}
+ .menu ul{
+	height: 65px;
+	width: 60%;
+	list-style: none;
+	margin: 0 auto;
+	padding-top: 15px;
+	
+}
+.menu li{
+	margin: 0 40px;
+	display: inline;
+}
+.menu a{
+	text-decoration: none;
+	color: black;
+	font-size: 26px;
+	color: white;
+}
+.main{
+	background-image:url(../images/huati/main_bg.png);
+	width:1600px;
+	height:1050px;
+}
+.content{
+	width:1044px;
+	height:1050px;
+	margin:0 auto;
+}
+.content .left{
+	width:700px;
+	height:1015px;
+	float:left;}
+.content .left h2{
+	color:rgb(114,114,114);
+	padding-top:30px;
+	margin-left:30px;
+	text-shadow:1px 1px #aaa;}
+.content .left .xinxi{
+	width:680px;
+	height:230px;
+	border-radius:20px;
+	background-color:white;
+	border:1px solid #ccc;
+	margin-left:20px;
+	margin-top:15px;
+	}
+.content .left .xinxi img{
+	width:70px;
+	padding-top:35px;
+	padding-left:20px;
+	padding-bottom:80px;
+	padding-right:30px;
+	float:left;
+	}
+.content .left .xinxi h5{
+	padding-top:35px;
+	padding-bottom:30px;
+	}
+.content .left .xinxi  p{
+	font-size:14px;
+	line-height:1.5em;
+	width:550px;
+}
+.content .left .xinxi .tips{
+	clear:both;
+	width:250px;
+	height:22px;
+	padding-left:90px;
+	padding-top:10px;}
+.content .left .xinxi .tips span{
+	background-color:#ccc;
+	opacity:0.8;
+	width:50px;
+	height:22px;
+	margin:0 5px;
+	border-radius:5px;
+	font-size:13px;}
+.content .left .b1{
+	margin-left:450px;
+	margin-top:20px;
+	margin-right:10px;
+	}
+.content .left .huati_all{
+	padding-top:10px;
+	padding-left:25px;}
+.content .left .huati_all h4{
+	border-bottom:2px solid #ccc;}
+.content .left .mytable{
+	width:685px;
+	height:490px;
+	margin-top:20px;
+	font-size:14px;
+	}
+.content .left .mytable td{
+	border-bottom:1px solid #ccc;}
+.content .left .mytable .ti{
+	width:350px;
+}
+.right{
+	height:950px;
+	width:304px;
+	float:left;
+	margin-right:20px;
+	margin-top:80px;}
+.right .right_xinxi{
+	width:304px;
+	height:150px;}
+.right .right_xinxi img{
+	width:75px;
+	padding-top:40px;
+	padding-left:20px;
+	border-radius:50%;
+	float:left;
+	padding-right:20px;}
+.right .right_xinxi p{
+	float:left;
+	font-size:12px;
+	padding-top:45px;}
+.right .right_xinxi a{
+	float:left;
+	font-size:12px;
+	padding-top:20px;
+		}
+.right .right_xinxi h6{
+	clear:both;
+	padding-left:40px;
+	font-weight:normal;
+	padding-top:5px;
+}
+.tuijian_bianti{
+	width: 300px;
+	height: 50px;
+	border-bottom: 2px solid #ccc;
+	position: relative;
+}
+.tuijian_bianti .h2_1{
+	padding-top: 20px;
+	color: rgb(243,143,103);
+	float: left;
+	padding-left: 30px;
+	font-size:15px;
+}
+.tuijian_bianti .h2_2{
+	padding-top: 20px;
+	font-size:15px;
+}
+.tuijian_bianti a{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	color: rgb(243,143,103);
+}
+.tushu{
+	width:300px;
+	height:130px;}
+.tushu img{
+	float:left;
+	padding-top:20px;
+	padding-left:10px;
+	width:65px;}
+.tushu p{
+	text-align:center;
+	padding-top:50px;
+	font-size:13px;}
+	footer{
+	background-color: rgb(141,139,139);
+	width: 1600px;
+	height: 70px;
+}
+.quanzi{
+	width:86px;
+	height:100px;
+	padding:20px 5px;
+	float:left;
+}
+.quanzi img{
+	width:76px;
+	padding-left:10px;
+}
+.quanzi p{
+	font-size:14px;
+	text-align:center;
+	color:#666;
+}
+footer{
+	background-color: rgb(141,139,139);
+	width: 1600px;
+	height: 70px;
+}
+footer ul{
+	padding-top: 20px;
+	padding-left: 480px;
+	list-style: none;
+}
+footer li{
+	display: inline;
+	margin: 0 20px;
+}
+footer  a{
+	color: white;
+	text-decoration: none;
+	
+}
+footer a:hover{
+	text-decoration-line: underline;
+}
+footer  p{
+	color: white;
+	padding-left: 600px;
+	padding-top: 7px;
+}
+
+
